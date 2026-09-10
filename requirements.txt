@@ -1,0 +1,7 @@
+datasets>=4.0
+pyarrow>=15
+beautifulsoup4>=4.12
+lxml>=5
+zstandard>=0.22
+datasketch>=1.6
+tqdm>=4.66
